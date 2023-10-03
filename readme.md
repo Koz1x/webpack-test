@@ -1,18 +1,9 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# HIII ヾ(☆▽☆)(¬_¬)ﾉ(๑ö◡ö)۶(。-ω-)ﾉ(;-_-)ノ( ﾟ▽ﾟ)/(￣▽￣)ノ
 
-Simple toolkit for your static websites development.
+Ja niashka
 
-## How to use it?
+![image](https://github.com/Koz1x/webpack-test/assets/98171424/40da8d0e-c0c6-47c4-a159-2ab5cc6d9605)
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
-
-## Available scripts
-
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
-
+##i eta moj proekt
