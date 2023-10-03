@@ -1,5 +1,3 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
-
 # HIII ヾ(☆▽☆)(¬_¬)ﾉ(๑ö◡ö)۶(。-ω-)ﾉ(;-_-)ノ( ﾟ▽ﾟ)/(￣▽￣)ノ
 
 Ja niashka
